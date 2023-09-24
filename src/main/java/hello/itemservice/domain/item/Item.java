@@ -16,7 +16,7 @@ public class Item {
     private List<String> regions; // 등록 지역
     private ItemType itemType; // 상품 종류
     private String deliveryCode; // 배송 방식
-    
+
     public Item() {
     }
 
